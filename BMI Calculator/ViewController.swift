@@ -33,7 +33,7 @@ class ViewController: UIViewController {
             heigthUnit.text = "IN"
         }
     }
-    
+    // new comment to track changes
     override func viewDidLoad() {
         super.viewDidLoad()
         resultLabel.text = "Your BMI wil be displayed here"
